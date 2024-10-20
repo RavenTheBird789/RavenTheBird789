@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Raven
+- 👀 I’m interested in math and coding.
+- 🌱 I’m currently learning more about ML/AI, Cybersecurity, Front End Development, Back End Development and Web Design.
+- 💞️ I’m looking to collaborate on anything really. Particularly anything related to ML/AI.
+- 📫 How to reach me: email
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I wrote a book about mental math.
