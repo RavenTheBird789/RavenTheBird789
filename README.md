@@ -1,5 +1,5 @@
 - Hi, I’m Raven
-- I’m interested in math, science, reading, art and coding.
+- I’m interested in math, science, art and coding.
 - I’m currently learning more about ML/AI, Cybersecurity, Front End Development, Back End Development and Web Design.
 - I’m looking to collaborate on anything really. Particularly anything related to application or web development.
 - How to reach me: email and/or discord
