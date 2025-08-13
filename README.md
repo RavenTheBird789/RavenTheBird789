@@ -1,7 +1,7 @@
 - Hi, I’m Raven
-- I’m interested in math, art and coding.
+- I’m interested in math, science, reading, art and coding.
 - I’m currently learning more about ML/AI, Cybersecurity, Front End Development, Back End Development and Web Design.
 - I’m looking to collaborate on anything really. Particularly anything related to application or web development.
-- How to reach me: email
+- How to reach me: email and/or discord
 - Pronouns: he/him
 - Fun fact: I wrote a book about mental math. (Mental Math Made Simple: A Guide To Quick And Easy Mental Math)
