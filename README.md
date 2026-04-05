@@ -4,4 +4,3 @@
 - I’m looking to collaborate on anything really. Particularly anything related to application or web development.
 - How to reach me: email and/or discord
 - Pronouns: he/him
-- Fun fact: I wrote a book about mental math. (Mental Math Made Simple: A Guide To Quick And Easy Mental Math)
