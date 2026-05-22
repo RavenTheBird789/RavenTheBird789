@@ -1,4 +1,4 @@
-Hi, I’m Raven. I'm a cybersecurity enthusiast and minigame creator.
+Hi, I’m Raven. I'm a cybersecurity enthusiast and python scripter.
 
 How to reach me: email and/or discord.
 * Discord: birdie08.
