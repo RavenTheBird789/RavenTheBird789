@@ -1,6 +1,6 @@
 Hi, I’m Raven. I'm a cybersecurity enthusiast and software engineer.
 
-How to reach me: email and/or discord.
+How To Reach Me: Email and/or Discord.
 * Discord: birdie08.
 * Email: raventhebird789@proton.me
 
