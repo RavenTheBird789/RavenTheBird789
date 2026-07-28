@@ -10,6 +10,6 @@ Front End
 * HTML, CSS, JS
 
 Back End + Scripting
-* Python
+* Python, REST APIs
 
 My Featured Projects:
