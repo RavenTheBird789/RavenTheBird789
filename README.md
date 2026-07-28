@@ -1,4 +1,4 @@
-Hi, I’m Raven. I'm a cybersecurity enthusiast and software engineer.
+Hi, I’m Raven. I'm a cybersecurity enthusiast, software engineer, and a first year Computer Engineering student.
 
 Ways To Reach Me:
 * Discord: birdie08.
