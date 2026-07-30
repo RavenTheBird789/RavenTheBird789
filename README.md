@@ -15,4 +15,9 @@ Back End & Scripting
 Data Manipulation & Visualization
 * Python and SQL (Primarily sqlite3)
 
+My Tools:
+* IDE: Visual Studio Code (VS Code)
+* Version Control: Git and Github
+* Development Environment: Debian GNU/Linux 12 (bookworm)
+
 My Featured Projects:
