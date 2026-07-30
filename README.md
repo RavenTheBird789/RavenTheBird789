@@ -9,7 +9,7 @@ My Tech Stack:
 Front End
 * HTML, CSS, and JS
 
-Back End + Scripting
+Back End & Scripting
 * Python and REST APIs
 
 Data Manipulation & Visualization
