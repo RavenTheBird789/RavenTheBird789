@@ -7,9 +7,12 @@ Ways To Reach Me:
 My Tech Stack:
 
 Front End
-* HTML, CSS, JS
+* HTML, CSS, and JS
 
 Back End + Scripting
-* Python, REST APIs
+* Python and REST APIs
+
+Data Manipulation & Visualization
+* Python and SQL (Primarily sqlite3)
 
 My Featured Projects:
