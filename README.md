@@ -10,7 +10,7 @@ Front End
 * HTML, CSS, and JS
 
 Back End & Scripting
-* Python and REST APIs
+* Python, REST APIs, and JSON
 
 Data Manipulation & Visualization
 * Python and SQL (Primarily sqlite3)
