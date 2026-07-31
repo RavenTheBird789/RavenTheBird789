@@ -6,19 +6,19 @@ Ways To Reach Me:
 
 My Tech Stack:
 
-   Front End
-   * HTML
-   * CSS
-   * JS
+Front End
+* HTML
+* CSS
+* JS
 
-   Back End & Scripting
-   * Python
-   * REST APIs
-   * JSON
+Back End & Scripting
+* Python
+* REST APIs
+* JSON
 
-   Data Manipulation & Visualization
-   * Python
-   * SQL (Primarily sqlite3)
+Data Manipulation & Visualization
+* Python
+* SQL (Primarily sqlite3)
 
 My Tools:
 * IDE: Visual Studio Code (VS Code)
