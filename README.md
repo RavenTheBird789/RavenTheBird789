@@ -1,4 +1,4 @@
-Hi, I’m Raven. I'm a cybersecurity enthusiast, software engineer, and a first year Computer Engineering student.
+Hi, I’m Raven. I'm a cybersecurity enthusiast, software engineer, first year Computer Engineering student, and OSINT open source software contributor.
 
 Ways To Reach Me:
 * Discord: birdie08.
