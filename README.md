@@ -23,6 +23,6 @@ Data Manipulation & Visualization
 My Tools:
 * IDE: Visual Studio Code (VS Code)
 * Version Control: Git and Github
-* Development Environment: Debian GNU/Linux 12 (bookworm) and Kali Linux
+* Development Environments: Debian GNU/Linux 12 (bookworm) and Kali Linux
 
 My Featured Projects:
