@@ -10,7 +10,7 @@ My Tech Stack:
 Front End
 * HTML
 * CSS
-* JS
+* JavaScript
 
 Back End & Scripting
 * Python
