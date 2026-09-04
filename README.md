@@ -19,7 +19,7 @@ Back End & Scripting
 
 Data Manipulation & Visualization
 * Python
-* SQL (Primarily sqlite3)
+* SQL
 
 My Tools:
 * IDE: Visual Studio Code (VS Code)
