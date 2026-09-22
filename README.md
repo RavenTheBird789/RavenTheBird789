@@ -24,6 +24,6 @@ Data Manipulation & Visualization
 My Tools:
 * IDE: Visual Studio Code (VS Code)
 * Version Control: Git and Github
-* Development Environments: Windows 11 Home, Debian GNU/Linux 12 (bookworm), and Kali Linux
+* Development Environments: Windows 11 Home, Debian GNU/Linux 12 (bookworm), Termux, and Kali Linux
 
 My Featured Projects:
