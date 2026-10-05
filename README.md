@@ -20,6 +20,7 @@ Back End & Scripting
 Data Manipulation & Visualization
 * Python
 * SQL
+* MATLAB
 
 My Tools:
 * IDE: Visual Studio Code (VS Code)
