@@ -14,6 +14,7 @@ Front End
 
 Back End & Scripting
 * Python
+* Bash
 * REST APIs
 * JSON
 
