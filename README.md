@@ -1,4 +1,4 @@
-Hi, I’m Raven. I'm a cybersecurity consultant, software engineer, first year Computer Engineering student at NCAT, and OSINT open-source software contributor.
+Hi, I’m Raven. I'm a cybersecurity consultant, software engineer, first year Computer Engineering student at NCAT, OSINT open-source software contributor, and a HackNCAT 10.0 Hack Kids 2026 1st placer.
 
 Ways To Reach Me:
 * Discord: birdie08.
